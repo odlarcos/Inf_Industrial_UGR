@@ -1,0 +1,1 @@
+Controlador PID para MotorDC con encoder de 1040 pulsos/vuelta
